@@ -44,7 +44,7 @@ public class ARManager : MonoBehaviour
             audioSource.clip = audioClip;
             audioSource.Play();
         }
-        else
+        else if (isTracked)
         {
             if (audioSource.isPlaying) audioSource.Stop();
             audioSource.clip = audioClip2;
