@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="vaccine" size="1.000000 1.000000" />
-    <ImageTarget name="stuffy_nose" size="1.000000 1.056225" />
+    <ImageTarget name="cartel" size="1.000000 0.772727" />
+    <ImageTarget name="virus_infiltration" size="1.000000 0.901590" />
+    <ImageTarget name="cell" size="1.000000 0.563218" />
+    <ImageTarget name="replication" size="1.000000 0.706843" />
+    <ImageTarget name="virus_closer" size="1.000000 0.901917" />
+    <ImageTarget name="virus_getting_out" size="1.000000 0.635753" />
     <ImageTarget name="start" size="1.000000 0.850000" />
     <ImageTarget name="sick_netsu" size="1.000000 1.050000" />
     <ImageTarget name="self_good" size="1.000000 0.981227" />
-    <ImageTarget name="rash" size="1.000000 1.267161" />
     <ImageTarget name="goal" size="1.000000 0.822500" />
     <ImageTarget name="cough" size="1.000000 1.111639" />
     <ImageTarget name="check_up" size="1.000000 1.103448" />
-    <ImageTarget name="eye" size="1.000000 0.836957" />
     <ImageTarget name="body_rash" size="1.000000 1.111111" />
   </Tracking>
 </QCARConfig>
