@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="assembly" size="1.000000 0.932161" />
     <ImageTarget name="cartel" size="1.000000 0.772727" />
     <ImageTarget name="virus_infiltration" size="1.000000 0.901590" />
     <ImageTarget name="cell" size="1.000000 0.563218" />
